@@ -167,7 +167,7 @@ npm start
 
 ##  Garanties de sécurité
 
-### Architecture à 4 tiers
+### Architecture à 3 tiers
 
 ```
 ┌──────────────────────────────────────────────────────┐
@@ -177,7 +177,7 @@ npm start
                      │ HTTPS
                      ▼
 ┌──────────────────────────────────────────────────────┐
-│         TIERS DE CONFIANCE + API                     │
+│         TIERS DE CONFIANCE + API : Coeur de Sécurité │
 │   Chiffrement/Déchiffrement (AES-256-GCM)            │
 │   Gestion des clés (jamais transmises)               │
 │   Tatouage numérique invisible                       │
