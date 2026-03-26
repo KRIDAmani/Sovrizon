@@ -2,7 +2,6 @@
 
 **Sovrizon V2** est un système de partage d'images chiffrées avec **chiffrement côté serveur**, développé dans le cadre de notre 3e année à Centrale Lyon. Cette version corrige une faille de sécurité majeure identifiée dans la V1 : **les clés de chiffrement ne quittent jamais le serveur**.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688.svg)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg)](https://reactjs.org)
