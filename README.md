@@ -100,9 +100,9 @@ Interface utilisateur cross-platform. Responsable de :
 mkdir sovrizon && cd sovrizon
 
 # 2. Cloner les 3 repositories
-git clone https://github.com/votre-org/sovrizon-tiers.git tiers-de-confiance
-git clone https://github.com/votre-org/sovrizon-secugram.git backend-secugram
-git clone https://github.com/votre-org/sovrizon-frontend.git frontend
+git clone https://github.com/Marwanagr/Serveur-TDC.git tiers-de-confiance
+git clone https://github.com/MalekChammakhi1/Secugram.git backend-secugram
+git clone https://github.com/khalfaECL/Front-End.git frontend
 
 # 3. Installer le Tiers de Confiance
 cd tiers-de-confiance
